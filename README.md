@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jared Albrecht (@raudhrafn)
+- 👋 Hey, I’m Jared Albrecht (@raudhrafn)
 - 👀 I’m interested in artificial intelligence and game development.
 - 🌱 I’m currently learning Java, JavaScript, and machine learning w/Python.
 - 💞️ I’m interested in expanding into machine learning and artificial intelligence or perhaps even game development as a programmer.
